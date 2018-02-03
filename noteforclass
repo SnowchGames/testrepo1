@@ -3,3 +3,6 @@ git remote
 git remote add
 git commit
 git log
+git pull
+git push
+git checkout
