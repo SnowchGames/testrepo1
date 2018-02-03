@@ -1,0 +1,5 @@
+git clone
+git remote
+git remote add
+git commit
+git log
